@@ -1,5 +1,8 @@
 # Landslide_RL_MLP_DNN
-En este repositorio se encuentran los scripts y datos necesarios para realizar el ajuste y cálculo de los modelos de Regresión Logística (RL), Perceptrón Multicapa (MLP) y redes neuronales profundas (DNN) aplicados a la estimacion de la susceptibilidad por movimientos en masa. <p>
+En este repositorio se encuentran los scripts y datos necesarios para realizar el ajuste y cálculo de los modelos de Regresión Logística (RL), Perceptrón Multicapa (MLP) y redes neuronales profundas (DNN) aplicados a la estimacion de la susceptibilidad por movimientos en masa. 
+
+Otros archivos necesarios (archivos vectoriales y raster) pueden ser descargados del siguiente link:https://mega.nz/#F!s9JCjSqb!2ZXuBaHs3LzHUFhas6jbCQ
+<p>
   
 Para el uso debido de la información se recomienda usar la siguiente cita: 
 P. Goyes-Peñafiel y A. Hernandez-Rojas (2020). Doble evaluación de la susceptibilidad por movimientos en masa basados en la solución del problema de clasificación con redes neuronales artificiales y Pesos de Evidencia.
