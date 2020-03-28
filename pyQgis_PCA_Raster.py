@@ -3,8 +3,8 @@
 """
 Created on Tue Jan 14 21:44:12 2020
 
-@author: Paul Goyes, Alejandra Hernandez-Rojas (2020)
-Article: Landslide Susceptibility Index Based on the Integration of Logistic Regression and Weights of Evidence: A Case Study in Popayan, Colombia
+@author: Paul Goyes-Peñafiel, Alejandra Hernandez-Rojas (2020)
+Este script permite calcular el PCA usando como valores de entrada varios RASTER, y eligiendo un número de componentes determinado.
 """
 
 import gdal
